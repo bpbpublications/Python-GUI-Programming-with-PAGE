@@ -1,0 +1,9 @@
+[Theme]
+available_themes = [
+    "notsodark",
+    "waldorf",
+]
+current = "notsodark"
+
+[Startup]
+showdeleted = true
